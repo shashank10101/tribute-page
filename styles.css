@@ -1,0 +1,55 @@
+body {
+    padding: 40px; /* Increased padding for more space */
+    background-color: darkgrey;
+    box-shadow: 0 0 0 100px azure;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, p, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+}
+
+ul li {
+    display: flex;
+    padding-left: 250px;
+    padding-top: 25px;
+}
+
+#tribute-info {
+    padding-top: 40px; /* Increased padding */
+    margin-bottom: 40px; /* Added margin to give more space at the bottom */
+    max-width: 100%;
+}
+
+#img-div {
+    background-color: azure;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+h2 {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#quote {
+    text-align: center;
+    font-style: italic;
+}
+
+.final{
+    padding-top: 20px;;
+    text-align: center;
+}
